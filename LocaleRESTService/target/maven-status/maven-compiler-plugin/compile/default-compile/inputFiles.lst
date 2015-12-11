@@ -1,6 +1,9 @@
-C:\Users\Dane\workspace\LocaleRESTService\src\com\locale\dao\FeedDAO.java
-C:\Users\Dane\workspace\LocaleRESTService\src\com\crunchify\restjersey\CtoFService.java
-C:\Users\Dane\workspace\LocaleRESTService\src\com\locale\database\DBConnection.java
-C:\Users\Dane\workspace\LocaleRESTService\src\com\crunchify\restjersey\FtoCService.java
-C:\Users\Dane\workspace\LocaleRESTService\src\com\locale\rest\service\feed\FeedService.java
-C:\Users\Dane\workspace\LocaleRESTService\src\com\locale\rest\models\feed\FeedItem.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\service\logon\LogonService.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\models\logon\NewUserRequest.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\dao\FeedDAO.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\service\feed\FeedService.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\models\error\JSONErrorResponse.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\models\logon\NewUserResponse.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\dao\LogonDAO.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\database\DBConnection.java
+C:\Users\Dane\workspace\Locale\LocaleRESTService\src\com\locale\rest\models\feed\FeedItem.java

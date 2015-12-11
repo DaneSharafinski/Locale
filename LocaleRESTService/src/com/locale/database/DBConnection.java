@@ -7,8 +7,6 @@ import java.util.ResourceBundle;
 
 public class DBConnection {
 	private String url;
-	private String usr;
-	private String pwd;
 	private static DBConnection instance;
 
 	private DBConnection()
@@ -17,13 +15,8 @@ public class DBConnection {
 		try {
             ResourceBundle bundle = ResourceBundle.getBundle("database");
             driver = bundle.getString("jdbc.driver");
-            System.out.println("got here");
             Class.forName(driver);
-            System.out.println("got here");
             url=bundle.getString("jdbc.url");
-            usr=bundle.getString("db_usr");
-            pwd=bundle.getString("db_pwd");
-            System.out.println("got here");
             
             System.out.println("url = " + url);
 		} catch (Exception e) {
